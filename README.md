@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Yehia Abdelkarim, I am from Cairo, Egypt. I graduated from Faculty of Engineering, Ain Shams University. I completed a 6-month internship at Potential Soft and i am now working at the same company as a full-time Frontend Developer. I have successfully completed four web development courses on Udemy and earned four certificates of completion. During these courses, I gained deep knowledge of Next.js, React.js, Redux, TypeScript, JavaScript, CSS3, Tailwind CSS, HTML, Node.js, Express.js, Nest.js, PostgreSQL, MongoDB and more. I specialise in building mobile-responsive front-end applications that seamlessly integrate with APIs and various back-end technologies. I am eager to apply my strong problem-solving skills and keen attention to detail to develop engaging, responsive, and user-friendly interfaces.</p>
+<p align="left">I graduated from Faculty of Engineering, Ain Shams University. I completed a 6-month internship at Potential Soft and i am now working at the same company as a full-time Frontend Developer. I have successfully completed four web development courses on Udemy and earned four certificates of completion. During these courses, I gained deep knowledge of Next.js, React.js, Redux, TypeScript, JavaScript, CSS3, Tailwind CSS, HTML, Node.js, Express.js, Nest.js, PostgreSQL, MongoDB and more. I specialise in building mobile-responsive front-end applications that seamlessly integrate with APIs and various back-end technologies. I am eager to apply my strong problem-solving skills and keen attention to detail to develop engaging, responsive, and user-friendly interfaces.</p>
 
 ###
 
