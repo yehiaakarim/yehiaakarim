@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Analytical and solution-driven Frontend Developer with Basic Backend Skills. Experienced in developing web applications using Next.js, React.js, Material UI, Redux, Zustand, TypeScript, JavaScript, Tailwind CSS, Node.js, Express.js, HTML5, and CSS3. Passionate about leveraging strong problem-solving skills and keen attention to detail<br>to build engaging, responsive user interfaces across browsers (Safari/iOS – WebKit, Firefox – Gecko, Chrome/Edge – Blink).</p>
+<p align="left">My name is Yehia Abdelkarim, I am from Cairo, Egypt. I graduated from Faculty of Engineering, Ain Shams University. I completed a 6-month internship at Potential Soft and i am now working at the same company as a full-time Frontend Developer. I have successfully completed four web development courses on Udemy and earned four certificates of completion. During these courses, I gained deep knowledge of Next.js, React.js, Redux, TypeScript, JavaScript, CSS3, Tailwind CSS, HTML, Node.js, Express.js, Nest.js, PostgreSQL, MongoDB and more. I specialise in building mobile-responsive front-end applications that seamlessly integrate with APIs and various back-end technologies. I am eager to apply my strong problem-solving skills and keen attention to detail to develop engaging, responsive, and user-friendly interfaces.</p>
 
 ###
 
